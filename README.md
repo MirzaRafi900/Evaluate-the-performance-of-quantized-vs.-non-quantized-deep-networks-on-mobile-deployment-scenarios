@@ -1,5 +1,10 @@
 # Evaluate the Performance of Quantized vs. Non-Quantized Deep Networks on Mobile Deployment Scenarios
 
+## Author
+
+### Mirza Zubier Siddique
+Master of Science (Data Sciecne and Analytics)
+
 ## Overview
 
 This repository contains coursework for the Deep Learning subject (MDSA 7113).
